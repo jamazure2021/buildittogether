@@ -76,4 +76,4 @@ If you were thinking if you can configure a deny assignment, then yes, you can. 
 
 ## 1.4. Next steps
 
-Now that you have completed this section, please move on to the practice exercises to learn more and gain hands on experience with Azure Active Directory and Role-based Access Control.
+Now that you have completed this section, please move on to the [practice](../identity-and-access-management/practice/README.md) exercises to learn more and gain hands on experience with Azure Active Directory and Role-based Access Control.
