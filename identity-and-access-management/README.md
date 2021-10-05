@@ -11,6 +11,7 @@
     - [1.3.5. What are Groups?](#135-what-are-groups)
     - [1.3.6. What if there are multiple overlapping role assignments?](#136-what-if-there-are-multiple-overlapping-role-assignments)
     - [1.3.7. Did you think Deny assignments?](#137-did-you-think-deny-assignments)
+  - [1.4. Next steps](#14-next-steps)
 
 ## 1.1. Introduction to Identity and Access Management
 In this section, we will take a look at Identity and Access Management (IAM) in Azure. Regardless the nature of your job as a cloud practioner, you will always need to understand how to securely authenticate to cloud resources (i.e., Azure Portal, Azure Subscription, Azure Virtual Machines, etc.). If you are responsible for creating user accounts and granting them access to cloud resources, you will again come across IAM and will need to know how it works so you can properly secure your organization's users and associated resouces.
@@ -71,4 +72,8 @@ Azure RBAC is additive. This means that your effective permissions are the sum o
 
 ### 1.3.7. Did you think Deny assignments?
 
-If you were thinking if you can configure a deny assignment, then yes, you can. Deny assignment works very similar to role assignments where a set of deny actions are applied to a security principal. 
+If you were thinking if you can configure a deny assignment, then yes, you can. Deny assignment works very similar to role assignments where a set of deny actions are applied to a security principal.
+
+## 1.4. Next steps
+
+Now that you have completed this section, please move on to the practice exercises to learn more and gain hands on experience with Azure Active Directory and Role-based Access Control.
