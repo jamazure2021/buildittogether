@@ -33,7 +33,7 @@ We have structured this repository to help you to get started with Azure in a gu
 
 If you are just starting out with your Azure journey, we recommend that you start in the following order: 
 1. [Identity and Access Management](identity-and-access-management/README.md)
-2. [Azure Hierarchy](azure-heirarchy/.gitkeep)
+2. [Azure Hierarchy](azure-heirarchy/README.md)
 3. [Understanding Azure Resource](understanding-azure-resources/.gitkeep)
 
 At the end of each section, please use the resources in **practice** folders to gain hands-on practice and follow the suggested links to the Microsoft resources for more information.
